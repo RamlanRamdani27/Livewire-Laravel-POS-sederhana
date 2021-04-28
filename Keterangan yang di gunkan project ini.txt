@@ -1,0 +1,8 @@
+HOT LARAVEL 8 & LIVEWARE - Point Of Sales Livewire
+
+1. laravel ui (bootstrap)
+2. Livewire
+3. laravelshoppingcart (darryldecode/laravelshoppingcart)
+4. Turbolink
+5. fontawesome (npm install --save @fortawesome/fontawesome-free)
+6. laravel id generator
